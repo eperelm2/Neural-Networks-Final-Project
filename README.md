@@ -1,7 +1,4 @@
 # Neural-Networks-Final-Project
-Medical Imaging: Brain Tumors in MRI
-
-# Model
 Used a Convolutional Neural Network to allow for different brain tumor detections through MRI images.
 
 # Blog Post
